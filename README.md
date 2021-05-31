@@ -6,9 +6,9 @@ For all the experiments, we used the [MNIST database](https://en.wikipedia.org/w
 We test the effect of the following set of parameters:
 Activation Functions | Number of intermediate (dense) layers
 :-: | :-:
-`ReLU` | 5
-`tanh` | 20
-`Sigmoid` | 40
+[ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) | 5
+[tanh](https://en.wikipedia.org/wiki/Hyperbolic_function) | 20
+[Logistic](https://en.wikipedia.org/wiki/Logistic_function) | 40
 
 For every combination of these parameters we print the following metrics:
 * Accuracy
