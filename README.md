@@ -11,7 +11,8 @@ Activation Functions | Number of intermediate (dense) layers
 [Logistic](https://en.wikipedia.org/wiki/Logistic_function) | 40
 
 For every combination of these parameters we print the following metrics:
+* Training time
 * Accuracy
 * Precision
 * Recall
-* F1 score
+* F1-score
