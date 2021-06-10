@@ -13,7 +13,7 @@ Activation Functions | Number of intermediate (dense) layers
 For every combination of these parameters we print the following metrics:
 * Training time
 * Accuracy
-* Loss
+* Log-loss
 * Precision
 * Recall
-* F1-score
+* F1 score
