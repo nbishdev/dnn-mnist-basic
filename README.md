@@ -1,5 +1,5 @@
 # Multi-class Image Classification with Fully Connected Neural Networks
-Basic fully connected neural networks for measuring and comparing the effects of using different activation functions as well as different number of intermediate dense layers to the classification process and output.
+Basic fully connected neural networks for measuring and comparing the effects of using different activation functions as well as different number of intermediate dense layers to the multi-class classification process and output.
 
 For all the experiments, we used the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database).
 
